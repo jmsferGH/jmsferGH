@@ -1,6 +1,6 @@
 - 👋 Hi, I’m José Ferreira @jmsferGH
 - 👀 I’m interested in alll chalanges
-- 🌱 I’m currently learning ANTLR
+- 🌱 I’m currently learning ANTLR, C#, Python, Pulsar 
 
 
 <!---

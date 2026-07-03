@@ -1,6 +1,7 @@
 - 👋 Hi, I’m José Ferreira @jmsferGH
 - 👀 I’m interested in alll chalanges
-- 🌱 I’m currently learning Kubernetes, C#, Python and trying out ArchLinux after years of using Fedora 
+- 🌱 I’m currently learning Kubernetes, C#, Python and trying out ArchLinux after years of using Fedora
+- I have to add LinuxCNC to my list of learning goals
 
 
 <!---
